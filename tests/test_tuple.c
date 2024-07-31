@@ -1,5 +1,5 @@
 #include "unity.h"
-#include "../src/tuple.h"
+#include "tuple.h"
 
 void setUp() {}
 void tearDown() {}
