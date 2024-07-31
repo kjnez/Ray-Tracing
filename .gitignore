@@ -1,0 +1,34 @@
+# Build artifacts
+*.o
+*.out
+test
+raytracer
+
+# Emacs temporary files
+*~
+.#/
+\#*#
+
+# Emacs backup files
+*.bak
+
+# Unity test framework (if you decide to gitignore it)
+* lib/Unity/
+
+# macOS system files
+.DS_Store
+
+# VSCode (if you happen to use it)
+.vscode/
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
