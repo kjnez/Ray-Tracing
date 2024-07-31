@@ -1,4 +1,4 @@
-#include "../lib/Unity/src/unity.h"
+#include "unity.h"
 #include "../src/tuple.h"
 
 void setUp() {}

@@ -32,3 +32,5 @@ raytracer
 
 # Debug files
 *.dSYM/
+/.cache/
+/compile_commands.json
